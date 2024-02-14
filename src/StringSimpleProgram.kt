@@ -11,7 +11,7 @@ fun main (){
 
     // Other way to get all the element
 
-    var str1="Kotlin"
+    var str1="Hello Wolrd"
 
     // apprracoh-1
 
