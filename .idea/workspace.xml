@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Initialize variable&#10;string properties and function&#10;How to get access all the element from String Program&#10;Structural Equality and Referntial Equality&#10;Escape Character and Multiline character">
-      <change afterPath="$PROJECT_DIR$/src/StringLiterals.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraySyntax.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,14 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ArraySyntaxKt">
-    <configuration name="ArraySyntaxKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArraySyntaxKt" />
-      <module name="BasicKotlininPlayGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="PropertiesAndFucntionInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PropertiesAndFucntionInStringKt" />
       <module name="BasicKotlininPlayGround" />
@@ -93,7 +86,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.ArraySyntaxKt" />
         <item itemvalue="Kotlin.StringLiteralsKt" />
         <item itemvalue="Kotlin.StringSimpleProgramKt" />
         <item itemvalue="Kotlin.PropertiesAndFucntionInStringKt" />
@@ -117,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
+      <workItem from="1708354529401" duration="2490000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
