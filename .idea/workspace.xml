@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Ranges in kotlin implementation">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ControlFlow.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="When Condition implementation">
+      <change afterPath="$PROJECT_DIR$/src/Loop ControlFlow.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +39,7 @@
     "Kotlin.ArraySyntaxKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
     "Kotlin.EplicitTypeCasting_ktKt.executor": "Run",
+    "Kotlin.Loop_ControlFlowKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.PropertiesAndFucntionInStringKt.executor": "Run",
@@ -126,7 +126,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="13076000" />
+      <workItem from="1708834062047" duration="14569000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -232,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708859582549</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="When Condition implementation">
+      <option name="closed" value="true" />
+      <created>1708861524387</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1708861524387</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,7 +261,8 @@
     <MESSAGE value="Explicit Ranges in kotlin" />
     <MESSAGE value="Range in kotlin implementation" />
     <MESSAGE value="Ranges in kotlin implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ranges in kotlin implementation" />
+    <MESSAGE value="When Condition implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="When Condition implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
