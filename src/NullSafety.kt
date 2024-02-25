@@ -28,27 +28,43 @@ fun main(){
     }
 
     // let
-    var lastName:String?="Chowdhury"
-    lastName=null
-    lastName?.let {
-        println(lastName.length)
+
+    var stringList : List<String?> = listOf("cc","aaa",null,"sdsd")
+
+    // new list
+    var newList= listOf<String?>()
+
+    for (i in 0..stringList.size-1){
+
+        stringList[i]?.let { newList=newList.plus(it) }
     }
+    // pirnt new list
+    for (items in newList){
+        println("new List:${items}")
+    }
+
 
     // run
-    var userName:String?="Hii"
-    userName=null
-    userName.run {
-        println(userName?.length)
+
+    var intList:List<Int?> = listOf(1,2,4,6,7,9,22,null,78,89,null)
+
+    // new List
+    var newListss= listOf<Int?>()
+
+    for (items in intList){
+
+      items?.run { newListss=newListss.plus(this) }
+
     }
 
-    // also
-
-    var passWord:String?="hello"
-    passWord=null
-    passWord.also {
-        println(passWord?.length)
+    // pirnt new list
+    for (items in newListss){
+        println("new List:${items}")
     }
 
-
+    var strr:String?="ABCWORLD"
+    println(strr?.length)
+    strr=null
+    println(strr?.length?:-1)
 
 }
