@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="When Condition implementation">
-      <change afterPath="$PROJECT_DIR$/src/Loop ControlFlow.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="For loop implementation">
+      <change afterPath="$PROJECT_DIR$/src/WhileAndDowhileLoop.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +49,7 @@
     "Kotlin.StringSimpleProgramKt.executor": "Run",
     "Kotlin.TypeCastingKt.executor": "Run",
     "Kotlin.VariableDeclarationKt.executor": "Run",
+    "Kotlin.WhileAndDowhileLoopKt.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -126,7 +127,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="14569000" />
+      <workItem from="1708834062047" duration="15091000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -240,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708861524387</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="For loop implementation">
+      <option name="closed" value="true" />
+      <created>1708865197795</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1708865197795</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,7 +271,8 @@
     <MESSAGE value="Range in kotlin implementation" />
     <MESSAGE value="Ranges in kotlin implementation" />
     <MESSAGE value="When Condition implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="When Condition implementation" />
+    <MESSAGE value="For loop implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="For loop implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
