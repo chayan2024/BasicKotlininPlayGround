@@ -1,5 +1,4 @@
 fun main(args:Array<String>){
-
     higherOrderFunc(lambda)
     higherOrderAddFunc(::add)
     val multiply=higerMultiply()
