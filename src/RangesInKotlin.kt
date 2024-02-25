@@ -22,4 +22,10 @@ fun main(){
         println(num)
     }
 
+    var range=5..1
+
+    for (nums in range.reversed()){
+        println("${nums}")
+    }
+
 }
