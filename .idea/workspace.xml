@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Inline Function in kotlin">
-      <change afterPath="$PROJECT_DIR$/src/LamdaFunction.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="lamda Function in kotlin">
+      <change afterPath="$PROJECT_DIR$/src/ExtensionFunction.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
     "Kotlin.ArraySyntaxKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
     "Kotlin.EplicitTypeCasting_ktKt.executor": "Run",
+    "Kotlin.ExtensionFunctionKt.executor": "Run",
     "Kotlin.FunctionSyntaxKt.executor": "Run",
     "Kotlin.Higher_Order_FunctionsKt.executor": "Run",
     "Kotlin.InlineFunctionInKotlinKt.executor": "Run",
@@ -131,7 +132,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="21419000" />
+      <workItem from="1708834062047" duration="22463000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -301,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708879180071</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lamda Function in kotlin">
+      <option name="closed" value="true" />
+      <created>1708880492414</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1708880492415</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +339,8 @@
     <MESSAGE value="Function Declaration with named and default parameter in kotlin." />
     <MESSAGE value="Higher order Function in Kotlin" />
     <MESSAGE value="Inline Function in kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inline Function in kotlin" />
+    <MESSAGE value="lamda Function in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="lamda Function in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
