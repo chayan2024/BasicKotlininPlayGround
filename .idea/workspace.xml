@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Smart Casting implementaion">
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="smart casting implementation">
+      <change afterPath="$PROJECT_DIR$/src/EplicitTypeCasting.kt.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SmartCasting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/SmartCasting.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -37,6 +37,7 @@
   "keyToString": {
     "Kotlin.ArrayImplemetationAndTraversingKt.executor": "Run",
     "Kotlin.ArraySyntaxKt.executor": "Run",
+    "Kotlin.EplicitTypeCasting_ktKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.PropertiesAndFucntionInStringKt.executor": "Run",
@@ -58,7 +59,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.SmartCastingKt">
+  <component name="RunManager" selected="Kotlin.EplicitTypeCasting_ktKt">
+    <configuration name="EplicitTypeCasting_ktKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EplicitTypeCasting_ktKt" />
+      <module name="BasicKotlininPlayGround" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PropertiesAndFucntionInStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PropertiesAndFucntionInStringKt" />
       <module name="BasicKotlininPlayGround" />
@@ -87,20 +95,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDeclarationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariableDeclarationKt" />
-      <module name="BasicKotlininPlayGround" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EplicitTypeCasting_ktKt" />
         <item itemvalue="Kotlin.SmartCastingKt" />
         <item itemvalue="Kotlin.PropertiesAndFucntionInStringKt" />
         <item itemvalue="Kotlin.StringLiteralsKt" />
         <item itemvalue="Kotlin.StringSimpleProgramKt" />
-        <item itemvalue="Kotlin.VariableDeclarationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +122,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="9260000" />
+      <workItem from="1708834062047" duration="10278000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -195,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708852789081</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="smart casting implementation">
+      <option name="closed" value="true" />
+      <created>1708857354703</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1708857354703</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +221,8 @@
     <MESSAGE value="NUll Safety with let,run and also" />
     <MESSAGE value="Type Casting implemenetation" />
     <MESSAGE value="Smart Casting implementaion" />
-    <option name="LAST_COMMIT_MESSAGE" value="Smart Casting implementaion" />
+    <MESSAGE value="smart casting implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="smart casting implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
