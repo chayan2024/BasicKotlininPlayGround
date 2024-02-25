@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="smart casting implementation">
-      <change afterPath="$PROJECT_DIR$/src/EplicitTypeCasting.kt.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Explicit Ranges in kotlin">
+      <change afterPath="$PROJECT_DIR$/src/RangesInKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -41,6 +41,7 @@
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.PropertiesAndFucntionInStringKt.executor": "Run",
+    "Kotlin.RangesInKotlinKt.executor": "Run",
     "Kotlin.SmartCastingKt.executor": "Run",
     "Kotlin.StringLiteralsKt.executor": "Run",
     "Kotlin.StringSimpleProgramKt.executor": "Run",
@@ -59,7 +60,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.EplicitTypeCasting_ktKt">
+  <component name="RunManager">
     <configuration name="EplicitTypeCasting_ktKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EplicitTypeCasting_ktKt" />
       <module name="BasicKotlininPlayGround" />
@@ -122,7 +123,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="10278000" />
+      <workItem from="1708834062047" duration="11069000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -204,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708857354703</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Explicit Ranges in kotlin">
+      <option name="closed" value="true" />
+      <created>1708858558841</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1708858558841</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +231,8 @@
     <MESSAGE value="Type Casting implemenetation" />
     <MESSAGE value="Smart Casting implementaion" />
     <MESSAGE value="smart casting implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="smart casting implementation" />
+    <MESSAGE value="Explicit Ranges in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Explicit Ranges in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
