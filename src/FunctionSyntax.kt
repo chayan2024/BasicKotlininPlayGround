@@ -6,6 +6,7 @@ fun main(){
     val name = "chayan"
     val standard = "VIII"
     val roll = 25
+    emplyoee(name="chayan", roll_no = 25,standard="VII")
     student(name,standard,roll)
 }
 
@@ -20,6 +21,12 @@ fun greet(str:String,year:Int){
 
 fun greet(): Unit {
     println("Normal function")
+}
+
+fun emplyoee( name: String="chayan", standard: String="IX" , roll_no: Int=11 ) {
+    println("Name of the student is: $name")
+    println("Standard of the student is: $standard")
+    println("Roll no of the student is: $roll_no")
 }
 
 fun student( name: String="chayan", standard: String="IX" , roll_no: Int=11 ) {
