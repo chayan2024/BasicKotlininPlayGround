@@ -9,7 +9,7 @@ fun main(){
     for (fruitItem in fruits){
         println("value of the Fruits:${fruitItem}")
     }
-
+    
     // immutable list in kotlin
 
     val immutableList= listOf("kolkata","delhi","mumbai")
