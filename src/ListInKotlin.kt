@@ -1,5 +1,4 @@
 fun main(){
-
     val names= listOf("a","b","c","d","e","f","g","h","i","j","k")
     //method 1
     for (name in names){
