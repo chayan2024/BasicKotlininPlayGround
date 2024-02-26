@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Collection in Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/ArrayListInkotlin.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Arraylist in kotlin">
+      <change afterPath="$PROJECT_DIR$/src/ListInKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -47,6 +48,7 @@
     "Kotlin.InfixFunctionKt.executor": "Run",
     "Kotlin.InlineFunctionInKotlinKt.executor": "Run",
     "Kotlin.LamdaFunctionKt.executor": "Run",
+    "Kotlin.ListInKotlinKt.executor": "Run",
     "Kotlin.Loop_ControlFlowKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
@@ -135,7 +137,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="26640000" />
+      <workItem from="1708834062047" duration="27219000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -337,7 +339,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708920568187</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Arraylist in kotlin">
+      <option name="closed" value="true" />
+      <created>1708921765166</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1708921765166</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,7 +355,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Initialize variable&#10;string properties and function" />
     <MESSAGE value="Initialize variable&#10;string properties and function&#10;How to get access all the element from String Program" />
     <MESSAGE value="Initialize variable&#10;string properties and function&#10;How to get access all the element from String Program&#10;Structural Equality and Referntial Equality&#10;Escape Character and Multiline character" />
     <MESSAGE value="Initialize Array and syntax" />
@@ -370,7 +379,8 @@
     <MESSAGE value="Extension Functions in Kotlin" />
     <MESSAGE value="Infix Function in Kotlin" />
     <MESSAGE value="Collection in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Collection in Kotlin" />
+    <MESSAGE value="Arraylist in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arraylist in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
