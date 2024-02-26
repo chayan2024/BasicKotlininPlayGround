@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Extension Functions in Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/InfixFunction.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Infix Function in Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/CollectionInKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,6 +37,7 @@
   "keyToString": {
     "Kotlin.ArrayImplemetationAndTraversingKt.executor": "Run",
     "Kotlin.ArraySyntaxKt.executor": "Run",
+    "Kotlin.CollectionInKotlinKt.executor": "Run",
     "Kotlin.ControlFlowKt.executor": "Run",
     "Kotlin.EplicitTypeCasting_ktKt.executor": "Run",
     "Kotlin.ExtensionFunctionKt.executor": "Run",
@@ -133,7 +134,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="23051000" />
+      <workItem from="1708834062047" duration="25392000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -319,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708882854863</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Infix Function in Kotlin">
+      <option name="closed" value="true" />
+      <created>1708883442487</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1708883442487</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,7 +359,8 @@
     <MESSAGE value="Inline Function in kotlin" />
     <MESSAGE value="lamda Function in kotlin" />
     <MESSAGE value="Extension Functions in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Extension Functions in Kotlin" />
+    <MESSAGE value="Infix Function in Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Infix Function in Kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
