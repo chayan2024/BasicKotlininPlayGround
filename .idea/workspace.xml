@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Hashmap in Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/ObjectAndClass.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Object and Class in Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/NestedClassInKotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Kotlin.Loop_ControlFlowKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "Kotlin.MutableSetInKotlinKt.executor": "Run",
+    "Kotlin.NestedClassInKotlinKt.executor": "Run",
     "Kotlin.NullSafetyKt.executor": "Run",
     "Kotlin.ObjectAndClassKt.executor": "Run",
     "Kotlin.PropertiesAndFucntionInStringKt.executor": "Run",
@@ -147,7 +148,7 @@
       <updated>1707800780269</updated>
       <workItem from="1707800781288" duration="9447000" />
       <workItem from="1708354529401" duration="2490000" />
-      <workItem from="1708834062047" duration="34921000" />
+      <workItem from="1708834062047" duration="35973000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -397,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709010268390</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Object and Class in Kotlin">
+      <option name="closed" value="true" />
+      <created>1709010958320</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1709010958320</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -405,7 +414,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="Null Safety in kotlin" />
     <MESSAGE value="NUll Safety with let,run and also" />
     <MESSAGE value="Type Casting implemenetation" />
     <MESSAGE value="Smart Casting implementaion" />
@@ -430,7 +438,8 @@
     <MESSAGE value="sealed class in kotlin" />
     <MESSAGE value="Mutable set in kotlin" />
     <MESSAGE value="Hashmap in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hashmap in Kotlin" />
+    <MESSAGE value="Object and Class in Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Object and Class in Kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
