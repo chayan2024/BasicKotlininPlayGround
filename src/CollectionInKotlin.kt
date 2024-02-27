@@ -47,7 +47,6 @@ fun main(){
         println("immutable Map key : ${immutableMap[key]}")
     }
 
-
     // mutable map
 
         var mutableMap = mutableMapOf<Int,String>(1 to "Mahipal",2 to "Nikhil",3 to "Rahul")
