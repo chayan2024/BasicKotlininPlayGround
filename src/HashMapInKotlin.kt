@@ -15,7 +15,7 @@ fun main(){
         println("Element at key ${key}: ${hashMap[key]}")
     }
 
-    // hashmap is empty or not
+    // hashmap is empty or not .
 
     if (hashMap.isEmpty()){
         println("Hashmap is empty")
