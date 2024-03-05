@@ -15,8 +15,6 @@ interface  B {
 interface C{
     fun insertC()
     fun updateC()
-    fun delete()
-    fun create()
 }
 class A:B,C{
 
