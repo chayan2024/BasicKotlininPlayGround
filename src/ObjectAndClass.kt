@@ -1,13 +1,13 @@
 fun main(){
     // creating object for car and addinf properties
-    val car=Car()
+    val car=Car(this)
     car.name="Toyota"
     car.model="Tyguuin"
     car.year=2023
     println("Car properties: ${car.getInfo()}")
 }
 
-class Car{
+class Car(builder: Builder) {
     var name:String?=null
     var model:String?=null
     var year:Int?=0
