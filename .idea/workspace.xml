@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="ENUM in Kotlin">
-      <change afterPath="$PROJECT_DIR$/src/TryCatchBlockInKotlin.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Try Catch block in Kotlin">
+      <change afterPath="$PROJECT_DIR$/src/FoldAndReduce.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TryCatchBlockInKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TryCatchBlockInKotlin.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +51,7 @@
     "Kotlin.EnumClassInKotlinKt.executor": "Run",
     "Kotlin.EplicitTypeCasting_ktKt.executor": "Run",
     "Kotlin.ExtensionFunctionKt.executor": "Run",
+    "Kotlin.FoldAndReduceKt.executor": "Run",
     "Kotlin.FunctionSyntaxKt.executor": "Run",
     "Kotlin.HashMapInKotlinKt.executor": "Run",
     "Kotlin.Higher_Order_FunctionsKt.executor": "Run",
@@ -154,7 +156,7 @@
       <workItem from="1708354529401" duration="2490000" />
       <workItem from="1708834062047" duration="40971000" />
       <workItem from="1709575287922" duration="338000" />
-      <workItem from="1709610352873" duration="3887000" />
+      <workItem from="1709610352873" duration="6157000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -436,7 +438,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709614755748</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Try Catch block in Kotlin">
+      <option name="closed" value="true" />
+      <created>1709615125615</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709615125615</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +454,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="smart casting implementation" />
     <MESSAGE value="Explicit Ranges in kotlin" />
     <MESSAGE value="Range in kotlin implementation" />
     <MESSAGE value="Ranges in kotlin implementation" />
@@ -469,7 +478,8 @@
     <MESSAGE value="Inner class in Kotlin" />
     <MESSAGE value="Interface in Kotlin" />
     <MESSAGE value="ENUM in Kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="ENUM in Kotlin" />
+    <MESSAGE value="Try Catch block in Kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try Catch block in Kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
