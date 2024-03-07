@@ -1,6 +1,7 @@
 fun main(){
 
     // fold higer order functions
+
     var num= listOf(1,2,3,4)
     val sum=num.fold(0){
         accumulator,element->
