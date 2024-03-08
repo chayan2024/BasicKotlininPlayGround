@@ -3,6 +3,8 @@ fun main() {
     //initialize array
     val num = arrayOf(1, 2, 3, 4)   //implicit type declaration
     println(num)
+    var array= listOf(1,2,33,)
+    println(array)
 
     val nums = arrayOf<Int>(10, 20, 30,40,50,60) //explicit type declaration
     println(nums)

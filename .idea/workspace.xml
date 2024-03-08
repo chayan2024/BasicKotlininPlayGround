@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="Builder patter in kotlin">
-      <change afterPath="$PROJECT_DIR$/src/InlineAndNonInlineInkotlin.kt" afterDir="false" />
+    <list default="true" id="857ef60f-ccf0-4e90-a20d-7f535a6fb0b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/infixFunctionINkotlin.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ObjectAndClass.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraySyntax.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraySyntax.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
@@ -56,6 +56,7 @@
     "Kotlin.FunctionSyntaxKt.executor": "Run",
     "Kotlin.HashMapInKotlinKt.executor": "Run",
     "Kotlin.Higher_Order_FunctionsKt.executor": "Run",
+    "Kotlin.InfixFunctionINkotlinKt.executor": "Run",
     "Kotlin.InfixFunctionKt.executor": "Run",
     "Kotlin.InlineAndNonInlineInkotlinKt.executor": "Run",
     "Kotlin.InlineFunctionInKotlinKt.executor": "Run",
@@ -160,7 +161,9 @@
       <workItem from="1708354529401" duration="2490000" />
       <workItem from="1708834062047" duration="40971000" />
       <workItem from="1709575287922" duration="338000" />
-      <workItem from="1709610352873" duration="14943000" />
+      <workItem from="1709610352873" duration="15565000" />
+      <workItem from="1709813186246" duration="30000" />
+      <workItem from="1709813984655" duration="1411000" />
     </task>
     <task id="LOCAL-00001" summary="Initialize variable&#10;string properties and function">
       <option name="closed" value="true" />
@@ -482,7 +485,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709796174626</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Inline and No Inline function in kotlin">
+      <option name="closed" value="true" />
+      <created>1709807493350</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1709807493350</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +501,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-    <MESSAGE value="For loop implementation" />
     <MESSAGE value="While and Do while implementation" />
     <MESSAGE value="Function syntax is syntax kotlin" />
     <MESSAGE value="Function implementation in Kotlin" />
@@ -515,7 +525,8 @@
     <MESSAGE value="Extension function in kotlin" />
     <MESSAGE value="Sealed class in kotlin" />
     <MESSAGE value="Builder patter in kotlin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder patter in kotlin" />
+    <MESSAGE value="Inline and No Inline function in kotlin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inline and No Inline function in kotlin" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
